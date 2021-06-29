@@ -6,7 +6,7 @@ I made two classes, one is TTTGame, and another one is Board.
 TTTGame class has the player information and the whole board's winner information  
 and the main function to play the game.  
 The Board class has the each small board information to check if the selected square is available  
-or the board is full or not.  
+or the board is full or not. The game continues until there is winner or board becomes full without winner.  
 
 **What I have not done:**
 ---
